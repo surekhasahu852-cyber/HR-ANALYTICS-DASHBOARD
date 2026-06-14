@@ -28,3 +28,4 @@ Male employees have more attrition rate than female employees
 The 20-30 age group employees have highest attrition 
 In education field life science has highest attrition 
 Employees working as laboratory technician has highest attrition 
+There is a high attrition due to overtime 
